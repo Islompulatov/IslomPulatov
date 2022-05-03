@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 ## Learning Platforms
 
 ![Epicode](https://img.shields.io/badge/Epicode-A435F0?style=for-the-badge&logo=Epicode&logoColor=white)
- <a href="https://my-learning.w3schools.com/" target="blank"><img src="https://img.shields.io/badge/W3Schools-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="IslomPulatov"  /></a>
+ <a href="https://my-learning.w3schools.com/" target="blank"><img src="https://img.shields.io/badge/W3Schools-%23123?&style=for-the-badge&logo=kaggle&logoColor=white" alt="IslomPulatov"  /></a>
   <a href="https://www.udemy.com/user/islom-32/" target="_blank"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-%230077B5.svg?&style=for-the-badge&logo=Udemy&logoColor=white" />
  <a href="https://www.hackerrank.com/islompulatov115" target="blank"><img src="https://img.shields.io/badge/HackerRank-20BEFF?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="IslomPulatov"  /></a>
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%2302262B.svg?style=for-the-badge&logo=stackoverFlow&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-20BEFF.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
  <a href="https://www.kaggle.com/islompulatov" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="IslomPulatov"  /></a>
 <br />
 <h3>Find me</h3>
