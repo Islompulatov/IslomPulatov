@@ -1,4 +1,4 @@
-
+  <img src="https://img.shields.io/github/followers/Islompulatov?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Islompulatov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
 
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
