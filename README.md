@@ -1,6 +1,6 @@
   <img src="https://img.shields.io/github/followers/Islompulatov?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Islompulatov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
 
-![Header](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif"Header") 
+![Header](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif "Header") 
 
 Hi, I'm **Islom** 👋
 
