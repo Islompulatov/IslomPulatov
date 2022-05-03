@@ -12,6 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+
+Hi, I'm **Islom** 👋
+
+I'm a **Junior Data Scientist and AI Developer** and very passionate about Machine Learning, Deep Learnig and Data Science.
+
+- 🎓 **Education:** I am studying Data Scientist at Epicode School. 
+
+
+- 😅 **Fun fact:** I like to travel around the world.
 ## :computer: Programming languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
