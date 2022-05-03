@@ -1,8 +1,4 @@
-### Hi there 👋
 
-**Islompulatov/IslomPulatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
@@ -13,6 +9,8 @@ I'm a **Junior Data Scientist and AI Developer** and very passionate about Machi
 - 🎓 **Education:** I am studying Data Scientist at Epicode School. 
 
 - 😅 **Fun fact:** I like to travel around the world.
+- ### Activities:
+<img src="https://github-readme-stats.vercel.app/api?username=Islompulatov&show_icons=true&theme=great-gatsby" alt="Islompulatov" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islompulatov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## :computer: Programming languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
