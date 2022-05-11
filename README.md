@@ -6,9 +6,9 @@ Hi, I'm **Islom** 👋
 
 I'm a **Junior Data Scientist and AI Developer** and very passionate about Machine Learning, Deep Learnig and Data Science.
 
-- 🎓 **Education:** I am studying Data Scientist at Epicode School. 
+- 🎓 **Education:** I am studying  at Epicode School in Data Scientist. 
 
-- 😅 **Fun fact:** I like to travel around the world.
+- 😅 **Fun fact:** I like to do sport in my leisure time.
 - ### Activities:
 <img src="https://github-readme-stats.vercel.app/api?username=Islompulatov&show_icons=true&theme=great-gatsby" alt="Islompulatov" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islompulatov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## :computer: Programming languages and tools:
