@@ -4,9 +4,9 @@
 
 Hi, I'm **Islom** 👋
 
-I'm a **Junior Data Scientist and AI Developer** and very passionate about Machine Learning, Deep Learnig and Data Science.
+I'm a **Junior Data Scientist and AI Developer** and I am very passionate about Machine Learning, Deep Learnig and Data Science.
 
-- 🎓 **Education:** I am studying  at Epicode School in Data Scientist. 
+- 🎓 **Education:** I am studying  at Epicode School as Data Scientist. 
 
 - 😅 **Fun fact:** I like to do sport in my leisure time.
 - ### Activities:
